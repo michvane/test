@@ -14,7 +14,7 @@
 {
 "title": "Mousepad",
 "author": "Ineke Debo",
-"shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur feugiat, libero vitae facilisis auctor, nisl lacus aliquet ante, vitae efficitur sapien libero sit amet ligula. Nam sit amet blandit est. Morbi mi enim, iaculis in tincidunt eu, commodo ut purus. Duis vitae est non arcu efficitur rhoncus id a velit. Vivamus eget dui eget enim porta tempor et sit amet enim. Pellentesque eu commodo ex. Phasellus maximus lacinia eros in tempor. Maecenas interdum interdum condimentum. Phasellus diam turpis, semper non porttitor ut, commodo vitae purus. Nulla auctor elementum efficitur. Donec id congue sem. Vestibulum sagittis scelerisque dolor, id convallis ex tincidunt sed. Ut eleifend sollicitudin mattis.",
+"shortDescription": "",
 "fullDescription": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipii",
 "mainImage": "https://igttna.am.files.1drv.com/y4m6Vz9iBrC-lHCKM1Q_oqJf_locau4RmZ4c60gJSxSEByHfuyyfwWwgTJP46PpRPRoruRXtvKZzHaQRVfCKJ-OKaKGircDnNNv3jq9wkjwqDpY2-5pU4GD2CCxZ9Srzr6-xQNsbYfeo7B9tBT9IpqrBsfnL1bEYOO2qGMqRi8LFGx5O0uyHGcJDzkZSDvd1Y9XrK1S5jgDjaVRS_eJwlbxHA?width=1538&height=1026&cropmode=none",
 "imageCollection": [
@@ -38,7 +38,7 @@
 {
 "title": "Fursuit lounge",
 "author": "Ineke Debo",
-"shortDescription": "A skateboard with a doggie!</br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur feugiat, libero vitae facilisis auctor, nisl lacus aliquet ante, vitae efficitur sapien libero sit amet ligula. Nam sit amet blandit est. Morbi mi enim, iaculis in tincidunt eu, commodo ut purus. Duis vitae est non arcu efficitur rhoncus id a velit. Vivamus eget dui eget enim porta tempor et sit amet enim. Pellentesque eu commodo ex. Phasellus maximus lacinia eros in tempor. Maecenas interdum interdum condimentum. Phasellus diam turpis, semper non porttitor ut, commodo vitae purus. Nulla auctor elementum efficitur. Donec id congue sem. Vestibulum sagittis scelerisque dolor, id convallis ex tincidunt sed. Ut eleifend sollicitudin mattis.",
+"shortDescription": "",
 "fullDescription": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipii",
 "mainImage": "https://igsp8a.am.files.1drv.com/y4m6IBptebt3iG4ldxvVPQqHoNN9wOfanJvpRml5aPC129jtQXnsChdZxWROdj8UgkRxCdvAqXYHALCUS6e_WJpU0ZWy6Ae-wSwtjHnBvIZf7tiA3B8fEaF1RMd0sowyUsgkswq32kY4R8DCPUPIbJt4sS7yzggKAhO02nY4W1-Z360xnUg1cak4dzBewBq1DkxkdUggDl4F-o5euqnFOvUFw?width=1538&height=1027&cropmode=none",
 "imageCollection": [
@@ -55,18 +55,6 @@
 "fullDescription": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipii",
 "mainImage": "https://8gisvg.am.files.1drv.com/y4mhhJkwrc_jTNnOSUXbXV9RCw6sYtSbcuWDn6YArwD29JG76dBoYl2xFcQYgEoeBu9DOEApHMxJshF82wyPtcnIbek_QXgyFwEELhS8KyYPuUv0UEigLNXhBX7UreTE7m04tjl4hxcEu7B_8pdl3mx_73UvWRKNA2PXHodUozEtXyfZgOAsHYKKPODh28KOg88Kg1KLKZja2NAgsVTmRc3Sw?width=1538&height=1027&cropmode=none",
 "imageCollection": [
-]
-},
-{
-"title": "Skateboard",
-"author": "Ineke Debo",
-"shortDescription": "A skateboard with a doggie!</br></br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur feugiat, libero vitae facilisis auctor, nisl lacus aliquet ante, vitae efficitur sapien libero sit amet ligula. Nam sit amet blandit est. Morbi mi enim, iaculis in tincidunt eu, commodo ut purus. Duis vitae est non arcu efficitur rhoncus id a velit. Vivamus eget dui eget enim porta tempor et sit amet enim. Pellentesque eu commodo ex. Phasellus maximus lacinia eros in tempor. Maecenas interdum interdum condimentum. Phasellus diam turpis, semper non porttitor ut, commodo vitae purus. Nulla auctor elementum efficitur. Donec id congue sem. Vestibulum sagittis scelerisque dolor, id convallis ex tincidunt sed. Ut eleifend sollicitudin mattis.",
-"fullDescription": "The full description",
-"mainImage": "https://url-to-image.com",
-"imageCollection": [
-"https://url-to-image.com",
-"https://url-to-image.com",
-"https://url-to-image.com"
 ]
 }
 ]
